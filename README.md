@@ -120,6 +120,6 @@ Valor numérico de la temperatura del horno obtenido tras:
 
 ### Autores
 
-- Ruyi Xia Ye
-- Álvaro López Guerrero
-- Juan Francisco Chacón Macías
+- [Ruyi Xia Ye](https://github.com/rxy94)
+- [Álvaro López Guerrero](https://github.com/Alvalogue72)
+- [Juan Francisco Chacón Macías](https://github.com/JuanFranCM)
